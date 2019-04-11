@@ -1,0 +1,168 @@
+[
+    [
+        "E:\\Visual Studio Project\\Test Project\\force-app",
+        {
+            "sourcePath": "E:\\Visual Studio Project\\Test Project\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555012809035,
+            "changeTime": 1555012809035,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "E:\\Visual Studio Project\\Test Project\\force-app\\main",
+        {
+            "sourcePath": "E:\\Visual Studio Project\\Test Project\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555012809035,
+            "changeTime": 1555012809035,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555026057378,
+            "changeTime": 1555026057378,
+            "contentHash": "414bcbdb5aa6ed0a7381d064a105124304f9be27"
+        }
+    ],
+    [
+        "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555012809035,
+            "changeTime": 1555012809035,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555012898908,
+            "changeTime": 1555012898908,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Visual Studio Project\\Test Project",
+        {
+            "sourcePath": "E:\\Visual Studio Project\\Test Project",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555023525178,
+            "changeTime": 1555023525178,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\flexipages\\undefined_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\flexipages\\undefined_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 504,
+            "modifiedTime": 1555026057338,
+            "changeTime": 1555026057338,
+            "contentHash": "f86b5a692f6ee954bd1be9127af4867c48e0584e"
+        }
+    ],
+    [
+        "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\applications\\Test_SFDX.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\applications\\Test_SFDX.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 608,
+            "modifiedTime": 1555026057346,
+            "changeTime": 1555026057346,
+            "contentHash": "e43881c01a05cf5e3923a56cd0ddf27dac57e10b"
+        }
+    ],
+    [
+        "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18756,
+            "modifiedTime": 1555026057393,
+            "changeTime": 1555026057393,
+            "contentHash": "5840994acda0bf051d86d7b44fc8f5e113a34752"
+        }
+    ],
+    [
+        "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555026057337,
+            "changeTime": 1555026057337,
+            "contentHash": "ca25cb1ee2b94b7fe68e34ec3f068eada09195ee"
+        }
+    ],
+    [
+        "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555026057345,
+            "changeTime": 1555026057345,
+            "contentHash": "dea010e89aa125002ca2be5c2a908ff6b4d8bb89"
+        }
+    ],
+    [
+        "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Visual Studio Project\\Test Project\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555026057389,
+            "changeTime": 1555026057389,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ]
+]
