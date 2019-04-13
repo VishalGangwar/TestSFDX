@@ -1,0 +1,17 @@
+<apex:page controller="CalculatorDemo">
+  <apex:form >
+      <apex:pageBlock >
+          <apex:pageBlockButtons location="Top">
+              <apex:commandButton action="{!add}" value="Add"/>
+              <apex:commandButton action="{!sub}" value="sub"/>
+              <apex:commandButton action="{!mul}" value="mul"/>
+              <apex:commandButton action="{!div}" value="div"/>
+          </apex:pageBlockButtons>
+          <apex:pageBlockSection >
+              <apex:inputText value="{!fNo}" label="Enter First No"/>
+              <apex:inputText value="{!sNo}" label="Enter Second No"/>
+              <apex:outputText value="{!result}" label="Result" rendered="{!showOutput}"></apex:outputText>
+          </apex:pageBlockSection>
+      </apex:pageBlock>
+  </apex:form>
+</apex:page>
